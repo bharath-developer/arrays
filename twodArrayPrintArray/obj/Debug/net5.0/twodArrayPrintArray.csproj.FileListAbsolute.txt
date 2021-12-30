@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\twodArrayPrintArray\bin\Debug\net5.0\twodArrayPrintArray.exe
+G:\dotnet\Console application\Array\twodArrayPrintArray\bin\Debug\net5.0\twodArrayPrintArray.deps.json
+G:\dotnet\Console application\Array\twodArrayPrintArray\bin\Debug\net5.0\twodArrayPrintArray.runtimeconfig.json
+G:\dotnet\Console application\Array\twodArrayPrintArray\bin\Debug\net5.0\twodArrayPrintArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\twodArrayPrintArray\bin\Debug\net5.0\twodArrayPrintArray.dll
+G:\dotnet\Console application\Array\twodArrayPrintArray\bin\Debug\net5.0\ref\twodArrayPrintArray.dll
+G:\dotnet\Console application\Array\twodArrayPrintArray\bin\Debug\net5.0\twodArrayPrintArray.pdb
+G:\dotnet\Console application\Array\twodArrayPrintArray\obj\Debug\net5.0\twodArrayPrintArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\twodArrayPrintArray\obj\Debug\net5.0\twodArrayPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\twodArrayPrintArray\obj\Debug\net5.0\twodArrayPrintArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\twodArrayPrintArray\obj\Debug\net5.0\twodArrayPrintArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\twodArrayPrintArray\obj\Debug\net5.0\twodArrayPrintArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\twodArrayPrintArray\obj\Debug\net5.0\twodArrayPrintArray.dll
+G:\dotnet\Console application\Array\twodArrayPrintArray\obj\Debug\net5.0\ref\twodArrayPrintArray.dll
+G:\dotnet\Console application\Array\twodArrayPrintArray\obj\Debug\net5.0\twodArrayPrintArray.pdb
+G:\dotnet\Console application\Array\twodArrayPrintArray\obj\Debug\net5.0\twodArrayPrintArray.genruntimeconfig.cache

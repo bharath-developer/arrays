@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\bin\Debug\net5.0\copyArrayToAnotherArray.exe
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\bin\Debug\net5.0\copyArrayToAnotherArray.deps.json
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\bin\Debug\net5.0\copyArrayToAnotherArray.runtimeconfig.json
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\bin\Debug\net5.0\copyArrayToAnotherArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\bin\Debug\net5.0\copyArrayToAnotherArray.dll
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\bin\Debug\net5.0\ref\copyArrayToAnotherArray.dll
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\bin\Debug\net5.0\copyArrayToAnotherArray.pdb
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\obj\Debug\net5.0\copyArrayToAnotherArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\obj\Debug\net5.0\copyArrayToAnotherArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\obj\Debug\net5.0\copyArrayToAnotherArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\obj\Debug\net5.0\copyArrayToAnotherArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\obj\Debug\net5.0\copyArrayToAnotherArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\obj\Debug\net5.0\copyArrayToAnotherArray.dll
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\obj\Debug\net5.0\ref\copyArrayToAnotherArray.dll
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\obj\Debug\net5.0\copyArrayToAnotherArray.pdb
+G:\dotnet\Console application\Array\copyArrayToAnotherArray\obj\Debug\net5.0\copyArrayToAnotherArray.genruntimeconfig.cache

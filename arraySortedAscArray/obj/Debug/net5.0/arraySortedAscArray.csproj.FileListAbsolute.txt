@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\arraySortedAscArray\bin\Debug\net5.0\arraySortedAscArray.exe
+G:\dotnet\Console application\Array\arraySortedAscArray\bin\Debug\net5.0\arraySortedAscArray.deps.json
+G:\dotnet\Console application\Array\arraySortedAscArray\bin\Debug\net5.0\arraySortedAscArray.runtimeconfig.json
+G:\dotnet\Console application\Array\arraySortedAscArray\bin\Debug\net5.0\arraySortedAscArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\arraySortedAscArray\bin\Debug\net5.0\arraySortedAscArray.dll
+G:\dotnet\Console application\Array\arraySortedAscArray\bin\Debug\net5.0\ref\arraySortedAscArray.dll
+G:\dotnet\Console application\Array\arraySortedAscArray\bin\Debug\net5.0\arraySortedAscArray.pdb
+G:\dotnet\Console application\Array\arraySortedAscArray\obj\Debug\net5.0\arraySortedAscArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\arraySortedAscArray\obj\Debug\net5.0\arraySortedAscArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\arraySortedAscArray\obj\Debug\net5.0\arraySortedAscArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\arraySortedAscArray\obj\Debug\net5.0\arraySortedAscArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\arraySortedAscArray\obj\Debug\net5.0\arraySortedAscArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\arraySortedAscArray\obj\Debug\net5.0\arraySortedAscArray.dll
+G:\dotnet\Console application\Array\arraySortedAscArray\obj\Debug\net5.0\ref\arraySortedAscArray.dll
+G:\dotnet\Console application\Array\arraySortedAscArray\obj\Debug\net5.0\arraySortedAscArray.pdb
+G:\dotnet\Console application\Array\arraySortedAscArray\obj\Debug\net5.0\arraySortedAscArray.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\minAndMaxInArray\bin\Debug\net5.0\minAndMaxInArray.exe
+G:\dotnet\Console application\Array\minAndMaxInArray\bin\Debug\net5.0\minAndMaxInArray.deps.json
+G:\dotnet\Console application\Array\minAndMaxInArray\bin\Debug\net5.0\minAndMaxInArray.runtimeconfig.json
+G:\dotnet\Console application\Array\minAndMaxInArray\bin\Debug\net5.0\minAndMaxInArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\minAndMaxInArray\bin\Debug\net5.0\minAndMaxInArray.dll
+G:\dotnet\Console application\Array\minAndMaxInArray\bin\Debug\net5.0\ref\minAndMaxInArray.dll
+G:\dotnet\Console application\Array\minAndMaxInArray\bin\Debug\net5.0\minAndMaxInArray.pdb
+G:\dotnet\Console application\Array\minAndMaxInArray\obj\Debug\net5.0\minAndMaxInArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\minAndMaxInArray\obj\Debug\net5.0\minAndMaxInArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\minAndMaxInArray\obj\Debug\net5.0\minAndMaxInArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\minAndMaxInArray\obj\Debug\net5.0\minAndMaxInArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\minAndMaxInArray\obj\Debug\net5.0\minAndMaxInArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\minAndMaxInArray\obj\Debug\net5.0\minAndMaxInArray.dll
+G:\dotnet\Console application\Array\minAndMaxInArray\obj\Debug\net5.0\ref\minAndMaxInArray.dll
+G:\dotnet\Console application\Array\minAndMaxInArray\obj\Debug\net5.0\minAndMaxInArray.pdb
+G:\dotnet\Console application\Array\minAndMaxInArray\obj\Debug\net5.0\minAndMaxInArray.genruntimeconfig.cache

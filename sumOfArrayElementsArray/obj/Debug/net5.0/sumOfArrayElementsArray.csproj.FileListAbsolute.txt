@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\bin\Debug\net5.0\sumOfArrayElementsArray.exe
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\bin\Debug\net5.0\sumOfArrayElementsArray.deps.json
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\bin\Debug\net5.0\sumOfArrayElementsArray.runtimeconfig.json
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\bin\Debug\net5.0\sumOfArrayElementsArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\bin\Debug\net5.0\sumOfArrayElementsArray.dll
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\bin\Debug\net5.0\ref\sumOfArrayElementsArray.dll
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\bin\Debug\net5.0\sumOfArrayElementsArray.pdb
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\obj\Debug\net5.0\sumOfArrayElementsArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\obj\Debug\net5.0\sumOfArrayElementsArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\obj\Debug\net5.0\sumOfArrayElementsArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\obj\Debug\net5.0\sumOfArrayElementsArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\obj\Debug\net5.0\sumOfArrayElementsArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\obj\Debug\net5.0\sumOfArrayElementsArray.dll
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\obj\Debug\net5.0\ref\sumOfArrayElementsArray.dll
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\obj\Debug\net5.0\sumOfArrayElementsArray.pdb
+G:\dotnet\Console application\Array\sumOfArrayElementsArray\obj\Debug\net5.0\sumOfArrayElementsArray.genruntimeconfig.cache

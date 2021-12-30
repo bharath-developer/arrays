@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\oddEvenSeperateArray\bin\Debug\net5.0\oddEvenSeperateArray.exe
+G:\dotnet\Console application\Array\oddEvenSeperateArray\bin\Debug\net5.0\oddEvenSeperateArray.deps.json
+G:\dotnet\Console application\Array\oddEvenSeperateArray\bin\Debug\net5.0\oddEvenSeperateArray.runtimeconfig.json
+G:\dotnet\Console application\Array\oddEvenSeperateArray\bin\Debug\net5.0\oddEvenSeperateArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\oddEvenSeperateArray\bin\Debug\net5.0\oddEvenSeperateArray.dll
+G:\dotnet\Console application\Array\oddEvenSeperateArray\bin\Debug\net5.0\ref\oddEvenSeperateArray.dll
+G:\dotnet\Console application\Array\oddEvenSeperateArray\bin\Debug\net5.0\oddEvenSeperateArray.pdb
+G:\dotnet\Console application\Array\oddEvenSeperateArray\obj\Debug\net5.0\oddEvenSeperateArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\oddEvenSeperateArray\obj\Debug\net5.0\oddEvenSeperateArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\oddEvenSeperateArray\obj\Debug\net5.0\oddEvenSeperateArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\oddEvenSeperateArray\obj\Debug\net5.0\oddEvenSeperateArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\oddEvenSeperateArray\obj\Debug\net5.0\oddEvenSeperateArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\oddEvenSeperateArray\obj\Debug\net5.0\oddEvenSeperateArray.dll
+G:\dotnet\Console application\Array\oddEvenSeperateArray\obj\Debug\net5.0\ref\oddEvenSeperateArray.dll
+G:\dotnet\Console application\Array\oddEvenSeperateArray\obj\Debug\net5.0\oddEvenSeperateArray.pdb
+G:\dotnet\Console application\Array\oddEvenSeperateArray\obj\Debug\net5.0\oddEvenSeperateArray.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\printUniqueInArray\bin\Debug\net5.0\printUniqueInArray.exe
+G:\dotnet\Console application\Array\printUniqueInArray\bin\Debug\net5.0\printUniqueInArray.deps.json
+G:\dotnet\Console application\Array\printUniqueInArray\bin\Debug\net5.0\printUniqueInArray.runtimeconfig.json
+G:\dotnet\Console application\Array\printUniqueInArray\bin\Debug\net5.0\printUniqueInArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\printUniqueInArray\bin\Debug\net5.0\printUniqueInArray.dll
+G:\dotnet\Console application\Array\printUniqueInArray\bin\Debug\net5.0\ref\printUniqueInArray.dll
+G:\dotnet\Console application\Array\printUniqueInArray\bin\Debug\net5.0\printUniqueInArray.pdb
+G:\dotnet\Console application\Array\printUniqueInArray\obj\Debug\net5.0\printUniqueInArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\printUniqueInArray\obj\Debug\net5.0\printUniqueInArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\printUniqueInArray\obj\Debug\net5.0\printUniqueInArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\printUniqueInArray\obj\Debug\net5.0\printUniqueInArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\printUniqueInArray\obj\Debug\net5.0\printUniqueInArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\printUniqueInArray\obj\Debug\net5.0\printUniqueInArray.dll
+G:\dotnet\Console application\Array\printUniqueInArray\obj\Debug\net5.0\ref\printUniqueInArray.dll
+G:\dotnet\Console application\Array\printUniqueInArray\obj\Debug\net5.0\printUniqueInArray.pdb
+G:\dotnet\Console application\Array\printUniqueInArray\obj\Debug\net5.0\printUniqueInArray.genruntimeconfig.cache

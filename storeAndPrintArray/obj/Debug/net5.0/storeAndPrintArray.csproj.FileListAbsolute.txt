@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\storeAndPrintArray\bin\Debug\net5.0\storeAndPrintArray.exe
+G:\dotnet\Console application\Array\storeAndPrintArray\bin\Debug\net5.0\storeAndPrintArray.deps.json
+G:\dotnet\Console application\Array\storeAndPrintArray\bin\Debug\net5.0\storeAndPrintArray.runtimeconfig.json
+G:\dotnet\Console application\Array\storeAndPrintArray\bin\Debug\net5.0\storeAndPrintArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\storeAndPrintArray\bin\Debug\net5.0\storeAndPrintArray.dll
+G:\dotnet\Console application\Array\storeAndPrintArray\bin\Debug\net5.0\ref\storeAndPrintArray.dll
+G:\dotnet\Console application\Array\storeAndPrintArray\bin\Debug\net5.0\storeAndPrintArray.pdb
+G:\dotnet\Console application\Array\storeAndPrintArray\obj\Debug\net5.0\storeAndPrintArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\storeAndPrintArray\obj\Debug\net5.0\storeAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\storeAndPrintArray\obj\Debug\net5.0\storeAndPrintArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\storeAndPrintArray\obj\Debug\net5.0\storeAndPrintArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\storeAndPrintArray\obj\Debug\net5.0\storeAndPrintArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\storeAndPrintArray\obj\Debug\net5.0\storeAndPrintArray.dll
+G:\dotnet\Console application\Array\storeAndPrintArray\obj\Debug\net5.0\ref\storeAndPrintArray.dll
+G:\dotnet\Console application\Array\storeAndPrintArray\obj\Debug\net5.0\storeAndPrintArray.pdb
+G:\dotnet\Console application\Array\storeAndPrintArray\obj\Debug\net5.0\storeAndPrintArray.genruntimeconfig.cache

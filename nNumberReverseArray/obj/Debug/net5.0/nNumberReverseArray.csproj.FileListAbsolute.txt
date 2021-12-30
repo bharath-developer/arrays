@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\nNumberReverseArray\bin\Debug\net5.0\nNumberReverseArray.exe
+G:\dotnet\Console application\Array\nNumberReverseArray\bin\Debug\net5.0\nNumberReverseArray.deps.json
+G:\dotnet\Console application\Array\nNumberReverseArray\bin\Debug\net5.0\nNumberReverseArray.runtimeconfig.json
+G:\dotnet\Console application\Array\nNumberReverseArray\bin\Debug\net5.0\nNumberReverseArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\nNumberReverseArray\bin\Debug\net5.0\nNumberReverseArray.dll
+G:\dotnet\Console application\Array\nNumberReverseArray\bin\Debug\net5.0\ref\nNumberReverseArray.dll
+G:\dotnet\Console application\Array\nNumberReverseArray\bin\Debug\net5.0\nNumberReverseArray.pdb
+G:\dotnet\Console application\Array\nNumberReverseArray\obj\Debug\net5.0\nNumberReverseArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\nNumberReverseArray\obj\Debug\net5.0\nNumberReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\nNumberReverseArray\obj\Debug\net5.0\nNumberReverseArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\nNumberReverseArray\obj\Debug\net5.0\nNumberReverseArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\nNumberReverseArray\obj\Debug\net5.0\nNumberReverseArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\nNumberReverseArray\obj\Debug\net5.0\nNumberReverseArray.dll
+G:\dotnet\Console application\Array\nNumberReverseArray\obj\Debug\net5.0\ref\nNumberReverseArray.dll
+G:\dotnet\Console application\Array\nNumberReverseArray\obj\Debug\net5.0\nNumberReverseArray.pdb
+G:\dotnet\Console application\Array\nNumberReverseArray\obj\Debug\net5.0\nNumberReverseArray.genruntimeconfig.cache

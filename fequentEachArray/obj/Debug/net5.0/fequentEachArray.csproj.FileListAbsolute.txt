@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\fequentEachArray\bin\Debug\net5.0\fequentEachArray.exe
+G:\dotnet\Console application\Array\fequentEachArray\bin\Debug\net5.0\fequentEachArray.deps.json
+G:\dotnet\Console application\Array\fequentEachArray\bin\Debug\net5.0\fequentEachArray.runtimeconfig.json
+G:\dotnet\Console application\Array\fequentEachArray\bin\Debug\net5.0\fequentEachArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\fequentEachArray\bin\Debug\net5.0\fequentEachArray.dll
+G:\dotnet\Console application\Array\fequentEachArray\bin\Debug\net5.0\ref\fequentEachArray.dll
+G:\dotnet\Console application\Array\fequentEachArray\bin\Debug\net5.0\fequentEachArray.pdb
+G:\dotnet\Console application\Array\fequentEachArray\obj\Debug\net5.0\fequentEachArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\fequentEachArray\obj\Debug\net5.0\fequentEachArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\fequentEachArray\obj\Debug\net5.0\fequentEachArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\fequentEachArray\obj\Debug\net5.0\fequentEachArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\fequentEachArray\obj\Debug\net5.0\fequentEachArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\fequentEachArray\obj\Debug\net5.0\fequentEachArray.dll
+G:\dotnet\Console application\Array\fequentEachArray\obj\Debug\net5.0\ref\fequentEachArray.dll
+G:\dotnet\Console application\Array\fequentEachArray\obj\Debug\net5.0\fequentEachArray.pdb
+G:\dotnet\Console application\Array\fequentEachArray\obj\Debug\net5.0\fequentEachArray.genruntimeconfig.cache

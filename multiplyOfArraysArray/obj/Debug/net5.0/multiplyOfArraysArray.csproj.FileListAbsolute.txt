@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\multiplyOfArraysArray\bin\Debug\net5.0\multiplyOfArraysArray.exe
+G:\dotnet\Console application\Array\multiplyOfArraysArray\bin\Debug\net5.0\multiplyOfArraysArray.deps.json
+G:\dotnet\Console application\Array\multiplyOfArraysArray\bin\Debug\net5.0\multiplyOfArraysArray.runtimeconfig.json
+G:\dotnet\Console application\Array\multiplyOfArraysArray\bin\Debug\net5.0\multiplyOfArraysArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\multiplyOfArraysArray\bin\Debug\net5.0\multiplyOfArraysArray.dll
+G:\dotnet\Console application\Array\multiplyOfArraysArray\bin\Debug\net5.0\ref\multiplyOfArraysArray.dll
+G:\dotnet\Console application\Array\multiplyOfArraysArray\bin\Debug\net5.0\multiplyOfArraysArray.pdb
+G:\dotnet\Console application\Array\multiplyOfArraysArray\obj\Debug\net5.0\multiplyOfArraysArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\multiplyOfArraysArray\obj\Debug\net5.0\multiplyOfArraysArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\multiplyOfArraysArray\obj\Debug\net5.0\multiplyOfArraysArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\multiplyOfArraysArray\obj\Debug\net5.0\multiplyOfArraysArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\multiplyOfArraysArray\obj\Debug\net5.0\multiplyOfArraysArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\multiplyOfArraysArray\obj\Debug\net5.0\multiplyOfArraysArray.dll
+G:\dotnet\Console application\Array\multiplyOfArraysArray\obj\Debug\net5.0\ref\multiplyOfArraysArray.dll
+G:\dotnet\Console application\Array\multiplyOfArraysArray\obj\Debug\net5.0\multiplyOfArraysArray.pdb
+G:\dotnet\Console application\Array\multiplyOfArraysArray\obj\Debug\net5.0\multiplyOfArraysArray.genruntimeconfig.cache

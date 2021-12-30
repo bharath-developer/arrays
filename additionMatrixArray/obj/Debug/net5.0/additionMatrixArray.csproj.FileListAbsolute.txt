@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\additionMatrixArray\bin\Debug\net5.0\additionMatrixArray.exe
+G:\dotnet\Console application\Array\additionMatrixArray\bin\Debug\net5.0\additionMatrixArray.deps.json
+G:\dotnet\Console application\Array\additionMatrixArray\bin\Debug\net5.0\additionMatrixArray.runtimeconfig.json
+G:\dotnet\Console application\Array\additionMatrixArray\bin\Debug\net5.0\additionMatrixArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\additionMatrixArray\bin\Debug\net5.0\additionMatrixArray.dll
+G:\dotnet\Console application\Array\additionMatrixArray\bin\Debug\net5.0\ref\additionMatrixArray.dll
+G:\dotnet\Console application\Array\additionMatrixArray\bin\Debug\net5.0\additionMatrixArray.pdb
+G:\dotnet\Console application\Array\additionMatrixArray\obj\Debug\net5.0\additionMatrixArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\additionMatrixArray\obj\Debug\net5.0\additionMatrixArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\additionMatrixArray\obj\Debug\net5.0\additionMatrixArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\additionMatrixArray\obj\Debug\net5.0\additionMatrixArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\additionMatrixArray\obj\Debug\net5.0\additionMatrixArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\additionMatrixArray\obj\Debug\net5.0\additionMatrixArray.dll
+G:\dotnet\Console application\Array\additionMatrixArray\obj\Debug\net5.0\ref\additionMatrixArray.dll
+G:\dotnet\Console application\Array\additionMatrixArray\obj\Debug\net5.0\additionMatrixArray.pdb
+G:\dotnet\Console application\Array\additionMatrixArray\obj\Debug\net5.0\additionMatrixArray.genruntimeconfig.cache

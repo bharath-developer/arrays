@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\arrayTransposeArray\bin\Debug\net5.0\arrayTransposeArray.exe
+G:\dotnet\Console application\Array\arrayTransposeArray\bin\Debug\net5.0\arrayTransposeArray.deps.json
+G:\dotnet\Console application\Array\arrayTransposeArray\bin\Debug\net5.0\arrayTransposeArray.runtimeconfig.json
+G:\dotnet\Console application\Array\arrayTransposeArray\bin\Debug\net5.0\arrayTransposeArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\arrayTransposeArray\bin\Debug\net5.0\arrayTransposeArray.dll
+G:\dotnet\Console application\Array\arrayTransposeArray\bin\Debug\net5.0\ref\arrayTransposeArray.dll
+G:\dotnet\Console application\Array\arrayTransposeArray\bin\Debug\net5.0\arrayTransposeArray.pdb
+G:\dotnet\Console application\Array\arrayTransposeArray\obj\Debug\net5.0\arrayTransposeArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\arrayTransposeArray\obj\Debug\net5.0\arrayTransposeArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\arrayTransposeArray\obj\Debug\net5.0\arrayTransposeArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\arrayTransposeArray\obj\Debug\net5.0\arrayTransposeArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\arrayTransposeArray\obj\Debug\net5.0\arrayTransposeArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\arrayTransposeArray\obj\Debug\net5.0\arrayTransposeArray.dll
+G:\dotnet\Console application\Array\arrayTransposeArray\obj\Debug\net5.0\ref\arrayTransposeArray.dll
+G:\dotnet\Console application\Array\arrayTransposeArray\obj\Debug\net5.0\arrayTransposeArray.pdb
+G:\dotnet\Console application\Array\arrayTransposeArray\obj\Debug\net5.0\arrayTransposeArray.genruntimeconfig.cache

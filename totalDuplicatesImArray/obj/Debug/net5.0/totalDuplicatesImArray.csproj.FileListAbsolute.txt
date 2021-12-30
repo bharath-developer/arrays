@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\totalDuplicatesImArray\bin\Debug\net5.0\totalDuplicatesImArray.exe
+G:\dotnet\Console application\Array\totalDuplicatesImArray\bin\Debug\net5.0\totalDuplicatesImArray.deps.json
+G:\dotnet\Console application\Array\totalDuplicatesImArray\bin\Debug\net5.0\totalDuplicatesImArray.runtimeconfig.json
+G:\dotnet\Console application\Array\totalDuplicatesImArray\bin\Debug\net5.0\totalDuplicatesImArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\totalDuplicatesImArray\bin\Debug\net5.0\totalDuplicatesImArray.dll
+G:\dotnet\Console application\Array\totalDuplicatesImArray\bin\Debug\net5.0\ref\totalDuplicatesImArray.dll
+G:\dotnet\Console application\Array\totalDuplicatesImArray\bin\Debug\net5.0\totalDuplicatesImArray.pdb
+G:\dotnet\Console application\Array\totalDuplicatesImArray\obj\Debug\net5.0\totalDuplicatesImArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\totalDuplicatesImArray\obj\Debug\net5.0\totalDuplicatesImArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\totalDuplicatesImArray\obj\Debug\net5.0\totalDuplicatesImArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\totalDuplicatesImArray\obj\Debug\net5.0\totalDuplicatesImArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\totalDuplicatesImArray\obj\Debug\net5.0\totalDuplicatesImArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\totalDuplicatesImArray\obj\Debug\net5.0\totalDuplicatesImArray.dll
+G:\dotnet\Console application\Array\totalDuplicatesImArray\obj\Debug\net5.0\ref\totalDuplicatesImArray.dll
+G:\dotnet\Console application\Array\totalDuplicatesImArray\obj\Debug\net5.0\totalDuplicatesImArray.pdb
+G:\dotnet\Console application\Array\totalDuplicatesImArray\obj\Debug\net5.0\totalDuplicatesImArray.genruntimeconfig.cache

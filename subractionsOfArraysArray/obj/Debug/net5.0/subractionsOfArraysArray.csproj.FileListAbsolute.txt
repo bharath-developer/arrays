@@ -1,0 +1,16 @@
+G:\dotnet\Console application\Array\subractionsOfArraysArray\bin\Debug\net5.0\subractionsOfArraysArray.exe
+G:\dotnet\Console application\Array\subractionsOfArraysArray\bin\Debug\net5.0\subractionsOfArraysArray.deps.json
+G:\dotnet\Console application\Array\subractionsOfArraysArray\bin\Debug\net5.0\subractionsOfArraysArray.runtimeconfig.json
+G:\dotnet\Console application\Array\subractionsOfArraysArray\bin\Debug\net5.0\subractionsOfArraysArray.runtimeconfig.dev.json
+G:\dotnet\Console application\Array\subractionsOfArraysArray\bin\Debug\net5.0\subractionsOfArraysArray.dll
+G:\dotnet\Console application\Array\subractionsOfArraysArray\bin\Debug\net5.0\ref\subractionsOfArraysArray.dll
+G:\dotnet\Console application\Array\subractionsOfArraysArray\bin\Debug\net5.0\subractionsOfArraysArray.pdb
+G:\dotnet\Console application\Array\subractionsOfArraysArray\obj\Debug\net5.0\subractionsOfArraysArray.csproj.AssemblyReference.cache
+G:\dotnet\Console application\Array\subractionsOfArraysArray\obj\Debug\net5.0\subractionsOfArraysArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\Array\subractionsOfArraysArray\obj\Debug\net5.0\subractionsOfArraysArray.AssemblyInfoInputs.cache
+G:\dotnet\Console application\Array\subractionsOfArraysArray\obj\Debug\net5.0\subractionsOfArraysArray.AssemblyInfo.cs
+G:\dotnet\Console application\Array\subractionsOfArraysArray\obj\Debug\net5.0\subractionsOfArraysArray.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\Array\subractionsOfArraysArray\obj\Debug\net5.0\subractionsOfArraysArray.dll
+G:\dotnet\Console application\Array\subractionsOfArraysArray\obj\Debug\net5.0\ref\subractionsOfArraysArray.dll
+G:\dotnet\Console application\Array\subractionsOfArraysArray\obj\Debug\net5.0\subractionsOfArraysArray.pdb
+G:\dotnet\Console application\Array\subractionsOfArraysArray\obj\Debug\net5.0\subractionsOfArraysArray.genruntimeconfig.cache
